@@ -153,13 +153,3 @@ Total Savings = (Attritions Prevented) × (Replacement Cost per Employee)
 * Evaluate additional interventions using causal forests
 * Integrate with internal HRIS systems for real-time risk scoring
 
----
-
-If you would like, I can also:
-
-* Format this as a **GitHub-ready Markdown file** with badges and table of contents
-* Add **visuals** or an ASCII architecture diagram
-* Build a **requirements.txt** or **conda environment file**
-* Generate a **project logo or banner**
-
-Let me know what you want to enhance next.
